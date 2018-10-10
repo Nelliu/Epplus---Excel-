@@ -10,6 +10,7 @@ namespace toexcel
     {
         public string Name;
         public int Age;
+        public string Work;
 
     }
 }
